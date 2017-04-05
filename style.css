@@ -1,12 +1,26 @@
+h2{
+	color: lightcoral;
+	text-align: center;
+}
+
+p{
+	font-family: 
+}
+
 h1	{
 	color: navy;
 }
 
 body{
-	background-color: lightblue;
+	background-color: lightgoldenrodyellow;
 }
 
 p{
 	font-family: Helvetica, Arial, sans-serif;
 	font size: 18px;
+}
+img{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
 }
